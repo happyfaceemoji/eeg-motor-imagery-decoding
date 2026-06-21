@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29177422/README.md)
-# eeg-motor-imagery-decoding# EEG Motor Imagery Decoding — PhysioNet EEGBCI Baseline
+# EEG Motor Imagery Decoding — PhysioNet EEGBCI Baseline
 
 A from-scratch reproduction of motor-imagery decoding on the PhysioNet EEG Motor
 Movement/Imagery dataset (EEGBCI). The decoder classifies whether a subject is
